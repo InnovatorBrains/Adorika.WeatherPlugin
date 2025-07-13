@@ -1,0 +1,42 @@
+{
+  "Id": "adorika-weather-plugin",
+  "Name": "Adorika Weather Plugin",
+  "Version": "1.0.0",
+  "Description": "A sample plugin that provides weather forecast endpoints",
+  "AssemblyFileName": "SamplePlugin.dll",
+  "MainType": "SamplePlugin.WeatherPlugin",
+  "Author": "Sample Plugin Developer",
+  "Categories": [
+    "api",
+    "productivity"
+  ],
+  "Tags": [
+    "weather",
+    "forecast",
+    "api",
+    "rest"
+  ],
+  "PriceTier": "Free",
+  "TargetAudience": [
+    "Developers",
+    "End Users"
+  ],
+  "Keywords": [
+    "weather",
+    "forecast",
+    "temperature",
+    "climate",
+    "meteorology"
+  ],
+  "License": "MIT",
+  "HomepageUrl": "https://github.com/example/weather-plugin",
+  "RepositoryUrl": "https://github.com/example/weather-plugin",
+  "AutoDiscoverDependencies": true,
+  "Dependencies": [],
+  "Compatibility": {
+    "Platforms": ["All"],
+    "MinDotNetVersion": "8.0",
+    "RequiredFeatures": ["AspNetCore"]
+  },
+  "MinHostVersion": "1.0.0"
+}

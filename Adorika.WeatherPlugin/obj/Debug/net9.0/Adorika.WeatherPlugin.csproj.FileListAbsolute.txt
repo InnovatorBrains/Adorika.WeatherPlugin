@@ -1,0 +1,13 @@
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.csproj.AssemblyReference.cache
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.AssemblyInfoInputs.cache
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.AssemblyInfo.cs
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.csproj.CoreCompileInputs.cache
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.sourcelink.json
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/bin/Debug/net9.0/Adorika.WeatherPlugin.deps.json
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/bin/Debug/net9.0/Adorika.WeatherPlugin.dll
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/bin/Debug/net9.0/Adorika.WeatherPlugin.pdb
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.dll
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/refint/Adorika.WeatherPlugin.dll
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/Adorika.WeatherPlugin.pdb
+/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/obj/Debug/net9.0/ref/Adorika.WeatherPlugin.dll

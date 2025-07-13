@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZE6dBLC+R6s=",
+  "success": true,
+  "projectFilePath": "/Users/ahsan-malik/Wp_Personal_Learning/HelloWorld/Adorika.WeatherPlugin/Adorika.WeatherPlugin.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahsan-malik/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
